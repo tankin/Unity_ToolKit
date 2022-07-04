@@ -7,4 +7,4 @@ Help create SpriteAtlas files of selected ui sprites folders which will be combi
 
 
 ## Debugger
-Help information for debug.
+Helpful information for debug.
